@@ -2,6 +2,8 @@
 
 A compressed introduction to Python for participants in the [DINO SIP program](https://www.apl.uw.edu/education/dino_sip.php) at the University of Washington Applied Physics Laboratory.
 
+OPEN SOURCE RULES
+
 ## Goals
 
 1. Provide *exposure* to the Python programming language and "ecosystem" specifically, and programming and open-source software more generally.
